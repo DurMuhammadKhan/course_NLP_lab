@@ -1,0 +1,19 @@
+--- PRE-TABLE PARAGRAPHS ---
+Project Report
+This document summarizes the progress of the artificial intelligence research project conducted over the past quarter. The project focuses on natural language processing and computer vision applications.
+The team made significant progress this quarter and delivered two prototypes on time.
+Introduction
+Artificial intelligence has become a central part of modern software systems. This report introduces the goals, methodology, and results of our research effort in a clear and structured manner.
+
+The following section details the methodology used during the project.
+Methodology
+We collected data from multiple public sources and cleaned it using standard data science techniques including normalization, deduplication, and tokenization before training our models on the processed dataset.
+Short note.
+Team Members
+
+--- TABLE DATA ---
+Name | Role | Hours
+Alice Johnson | Data Scientist | 120
+Bob Smith | ML Engineer | 150
+Carla Diaz |  | 95
+David Lee | Project Manager | 
